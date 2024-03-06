@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nitha Parveen</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithparveen" alt="nithparveen" /></a> </p>
 
 - 🔭 I’m currently working on **DigiBank**
 
