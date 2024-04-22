@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nitha Parveen</h1>
-<h3 align="center">A Passionate  Flutter Devoloper</h3>
+<h1 align="center">Hi , I'm Nitha Parveen</h1>
+<h3 align="center">A Passionate Flutter Devoloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithaparveen&label=Profile%20views&color=0e75b6&style=flat" alt="nithaparveen" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application Development**
+-  I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Flutter,Dart,Firebase,REST API**
+-  I’m currently learning **Flutter,Dart,Firebase,REST API**
 
-- 👯‍♀️ I'm looking to collaborate on **any Mobile App ideas**
+-  I'm looking to collaborate on **any Mobile App ideas**
 
-- 📫 How to reach me **parveennitha@gmail.com**
+-  How to reach me **parveennitha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
