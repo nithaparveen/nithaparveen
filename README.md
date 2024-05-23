@@ -5,7 +5,7 @@
 
 -  I’m currently working on  **Mobile Application Development**
 
--  I’m currently learning **Flutter,Dart,Firebase,REST API**
+-  I’m currently learning  **Flutter,Dart,Firebase,REST API**
 
 -  I'm looking to collaborate on **any Mobile App ideas**
 
