@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Nitha Parveen! Passionate Flutter developer. Let's create something amazing!</h1>
+<h2 align="center">Hi, I'm Nitha Parveen! Passionate Flutter developer. Let's create something amazing!</h2>
 
 ###
 
